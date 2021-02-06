@@ -19,6 +19,7 @@ uOttahack 2021
 inspirations: 
 
 "juice" : https://dribbble.com/shots/10029626-Online-Food-App
+
 "witchy" : https://dribbble.com/shots/13405767-Fantastic-Magical-Icons
 
 
