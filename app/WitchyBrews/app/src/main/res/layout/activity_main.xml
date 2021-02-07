@@ -3,6 +3,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bkgrnd"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:layout_margin="0dp"
+    android:paddingTop="85dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:adjustViewBounds="true"
+    android:background="@drawable/bkgrnd_pink">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <ImageView
+            android:layout_centerVertical="true"
+            android:layout_height="40dp"
+            android:layout_width="40dp"
+            android:src="@drawable/ic_baseline_menu_24" />
+
+        <ImageView
+            android:background="@color/banner_background"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_height="40dp"
+            android:layout_width="40dp"
+            android:padding="5dp"
+            android:src="@drawable/ic_baseline_android_24" />
+
+    </RelativeLayout>
 </LinearLayout>
