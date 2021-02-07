@@ -8,4 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="banner_background">#FFF5FD</color>
+    <color name="witchy">#29237B</color>
+    <color name="witchy2">#493EE2</color>
+    <color name="perifruit">#CECBEF</color>
 </resources>
