@@ -16,6 +16,7 @@ uOttahack 2021
 
 - [city guide tutorial](https://www.taimoorsikander.com/city-guide-dashboard/)
 
+- [recyclerview carousel](https://www.youtube.com/watch?v=QwMmBHA1RrE) better look
 
 ## Ref
 
