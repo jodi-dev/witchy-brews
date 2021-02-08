@@ -149,25 +149,49 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
     </GridLayout>
-
-    <TextView
-        android:id="@+id/popular_text"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="35dp"
-        android:fontFamily="@font/berkshire_swash"
-        android:padding="15dp"
-        android:text="Bewitching Brews"
-        android:textColor="@color/witchy"
-        android:textSize="30sp"
-        android:textStyle="bold"
-        android:shadowColor="@color/white"
-        android:shadowRadius="10"
-        android:shadowDy="2"
-        android:shadowDx="2"
         android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp">
-    </TextView>
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/popular_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/berkshire_swash"
+                android:padding="15dp"
+                android:text="Bewitching Brews"
+                android:textColor="@color/witchy"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:shadowColor="@color/white"
+                android:shadowRadius="10"
+                android:shadowDy="2"
+                android:shadowDx="2">
+            </TextView>
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="See all"
+                android:textStyle="bold"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true">
+            </TextView>
+
+        </RelativeLayout>
+        
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="270dp"/>
+
+    </LinearLayout>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"
