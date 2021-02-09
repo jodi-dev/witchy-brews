@@ -4,11 +4,14 @@ uOttahack 2021
 
 
 
+## Progress
+
+Feb 8: finished recyclerview code, it works.
+looks basic and card? height is wrong, title being cut off
+make images for the carousel
 
 
-
-
-# Tutorials
+## Tutorials
 
 - [circular user image](https://www.youtube.com/watch?v=InkQJ4riGyI)
 
