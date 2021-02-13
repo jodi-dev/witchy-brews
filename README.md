@@ -48,8 +48,8 @@ Things I learned:
 
 If I ever come back to revisit:
 
-1. Mock up more individual "drinks" pages and make it more obvious that what's sold isn't fresh bubble tea but tea parts
-1. Adjust the graphic art
+1. Mock up more individual "drinks" pages and make it more obvious that what's sold isn't fresh bubble tea but tea parts.
+1. Adjust the graphic art.
 1. Replace basic UI components with UI libraries that are more interesting - for example, I'd like to try using Android's Material Design components.
 
 ## Ref
