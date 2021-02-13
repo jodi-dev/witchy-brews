@@ -44,6 +44,8 @@ The design in Adobe XD:
 
 Check out the [assets folder](assets/) for progress pictures.
 
+Drag and drop the app [.apk file](WitchyBrewsApp.apk) into your Android emulator to launch it.
+
 
 Things I learned:
 
