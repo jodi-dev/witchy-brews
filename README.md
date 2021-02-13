@@ -34,6 +34,14 @@ As of February 13, the app looks like this:
 
 ![app](assets/feb-13.png)
 
+
+The design in Adobe XD:
+
+
+![design](assets/feb-6-13.png)
+
+
+
 Check out the [assets folder](assets/) for progress pictures.
 
 
