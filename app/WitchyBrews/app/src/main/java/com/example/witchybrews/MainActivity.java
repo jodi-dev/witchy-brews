@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<FeaturedHelper> featuredImages = new ArrayList<>();
 
         featuredImages.add(new FeaturedHelper(R.drawable.milky, "Thing"));
-        featuredImages.add(new FeaturedHelper(R.drawable.fruity, "Thing"));
+        featuredImages.add(new FeaturedHelper(R.drawable.dummy, "Strawberry"));
         featuredImages.add(new FeaturedHelper(R.drawable.witchy, "Thing"));
 
         adapter = new FeaturedAdapter(featuredImages);

@@ -22,7 +22,7 @@ public class FeaturedAdapter extends RecyclerView.Adapter<FeaturedAdapter.Featur
     public static class FeaturedViewHolder extends RecyclerView.ViewHolder {
 
         ImageView image;
-        TextView title, desc;
+        TextView title;
 
         public FeaturedViewHolder(@NonNull View itemView) {
             super(itemView);
