@@ -8,6 +8,12 @@ I thought about how quarantine impacted my life and decided to make an android a
 
 Having gone to University downtown, swinging by tea shops between class for a sugary caffeine-fuelled treat was a constant for me. Even after lockdown, I craved for the sweet chemically induced endorphins constantly. However, expensive delivery services held me back and I had wished for a time, fresh tea shop businesses would convert to selling dehydated bulk versions of their teas and toppings, so I can buy them in boxes and reconsitute them at home myself.
 
+It's a worth while business idea, because:
+
+- Fresh tea shops where people might've previously gone to stay at, or couldn't visit now, due to covid, can keep business going in a new way
+- Selling dehydrated bulk tea is good for the environment if sustainable packaging is used, whereas fresh tea would've caused more plastic waste
+- Cheaper for students who might not be able to afford food delivery services with fresh tea which usually cost less than $15 per cup, and rarely consume more than one in one sitting
+
 # Project
 
 A one-page UI fantasy prototype for a bulk-buy, mail to your home Amazon-style, rehydrate with hot (or cold) water (or beverage of your choice) at home yourself boba tea and toppings business.
